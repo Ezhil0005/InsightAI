@@ -1,0 +1,21 @@
+id,timestamp,source,rating,feedback_text
+1,2026-06-21 09:15:00,survey_comment,2,The delivery was delayed by 3 hours and the food arrived cold.
+10,2026-06-28 13:00:00,survey_comment,2,"Support team romba careless ah irukanga, problem solve pannala."
+11,2026-06-28 13:30:00,survey_comment,1,"Delivery romba worst ah irundhuchu, customer support bhi help nahi kiya."
+12,2026-06-29 14:00:00,survey_comment,3,Food super aa irundhuchu but delivery bahut late tha.
+13,2026-06-30 14:00:00,survey_comment,2,Refund innum varala but support ne bola kal tak aa jayega.
+14,2026-01-07 14:00:00,survey_comment,1,App crash aagiduchu while payment processing.
+15,2026-02-07 14:00:00,survey_comment,2,Order cancel panna mudiyala and customer care not responding.
+16,2026-03-07 14:00:00,survey_comment,5,"Excellent service, my order arrived before expected time."
+17,2026-04-07 14:00:00,survey_comment,5,"டெலிவரி மிகவும் வேகமாக வந்தது, மிகவும் மகிழ்ச்சி."
+18,2026-04-07 16:40:00,survey_comment,5,"मेरा ऑर्डर समय से पहले पहुंच गया, बहुत अच्छा अनुभव।"
+19,2026-04-07 17:00:00,survey_comment,4,Food quality was excellent and packaging was neat.
+2,2026-06-22 09:30:00,survey_comment,1,டெலிவரி மிகவும் தாமதமாக வந்தது மற்றும் உணவு குளிர்ந்திருந்தது.
+20,2026-05-07 17:20:00,survey_comment,5,"Service super ah irundhuchu, definitely will order again."
+3,2026-06-22 10:00:00,survey_comment,1,मेरा ऑर्डर बहुत देर से आया और खाना ठंडा था।
+4,2026-06-23 10:20:00,survey_comment,2,"Delivery romba late ah vandhuchu, food um cold ah irundhuchu."
+5,2026-06-24 10:20:00,survey_comment,2,Mera order late deliver hua aur food bhi cold tha.
+6,2026-06-25 10:20:00,survey_comment,1,The payment was deducted twice but my order was not confirmed.
+7,2026-06-26 10:20:00,survey_comment,1,பணம் இரண்டு முறை கழிக்கப்பட்டது ஆனால் ஆர்டர் உறுதிப்படுத்தப்படவில்லை.
+8,2026-06-27 10:20:00,survey_comment,1,मेरे खाते से दो बार पैसे कट गए लेकिन ऑर्डर कन्फर्म नहीं हुआ।
+9,2026-06-28 10:20:00,survey_comment,2,Customer support was rude and did not resolve my issue.

@@ -1,0 +1,14 @@
+=========================================================================================
+INSIGHTAI ENTERPRISE MULTILINGUAL VERIFICATION REPORT
+=========================================================================================
+
+Input                                              | Detected Language    | Translated Text                                    | Sentiment  | Category        | Root Cause                | Status
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The delivery was delayed by 3 hours and the foo... | English              | The delivery was delayed by 3 hours and the foo... | Negative   | Delivery        | Route Planning Failure    | PASS  
+டெலிவரி மிகவும் தாமதமாக வந்தது மற்றும் உணவு குள... | Tamil                | Delivery was very delayed and food was cold.       | Negative   | Delivery        | Route Planning Failure    | PASS  
+मेरा ऑर्डर बहुत देर से आया और खाना ठंडा था।        | Hindi                | My order was very late and food was cold।          | Negative   | Delivery        | Route Planning Failure    | PASS  
+Delivery romba late ah vandhuchu, food um cold ... | Tanglish             | Delivery was very late, food was also cold.        | Negative   | Delivery        | Route Planning Failure    | PASS  
+Mera order late deliver hua aur food bhi cold tha. | Hinglish             | My order late deliver happened and food also co... | Negative   | Delivery        | Route Planning Failure    | PASS  
+Support team romba careless ah irukanga, proble... | Tanglish             | Support team very careless are, problem not sol... | Negative   | Staff/Support   | Agent Conduct             | PASS  
+Delivery romba worst ah irundhuchu, customer su... | Mixed                | Delivery was very worst, customer support did n... | Negative   | Staff/Support   | Agent Conduct             | PASS  
+பணியாளர்கள் மிகவும் ஆக்ரோஷமாக நடந்துகொள்கிறார்கள். | Tamil                | Staff are behaving very aggressively.              | Negative   | Staff/Support   | Agent Conduct             | PASS  

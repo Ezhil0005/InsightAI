@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  insightai:
+    build: .
+    container_name: insightai_platform
+    ports:
+      - "8501:8501"
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+      - GROQ_API_KEY=${GROQ_API_KEY}
+      - DEMO_MODE=True
+    volumes:
+      - ./database:/app/database
+      - ./logs:/app/logs
+      - ./reports:/app/reports
+    restart: always
