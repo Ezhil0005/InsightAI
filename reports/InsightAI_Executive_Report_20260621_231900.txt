@@ -1,0 +1,7 @@
+=== EXECUTIVE DIGEST REPORT (FALLBACK) ===
+Generated at: 2026-06-21 23:19:00
+
+Total Feedbacks: 14
+Business Health Score: 41.2%
+CSI: 35.71%
+Average Churn Risk: 57.9%

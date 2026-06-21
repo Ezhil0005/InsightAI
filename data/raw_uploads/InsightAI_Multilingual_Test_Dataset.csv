@@ -1,0 +1,21 @@
+﻿id,timestamp,source,rating,feedback_text
+1,21-06-2026 09:15,Mobile App,2,The delivery was delayed by 3 hours and the food arrived cold.
+2,22-06-2026 09:30,Website,1,டெலிவரி மிகவும் தாமதமாக வந்தது மற்றும் உணவு குளிர்ந்திருந்தது.
+3,22-06-2026 10:00,Mobile App,1,मेरा ऑर्डर बहुत देर से आया और खाना ठंडा था।
+4,23-06-2026 10:20,WhatsApp,2,"Delivery romba late ah vandhuchu, food um cold ah irundhuchu."
+5,24-06-2026 10:20,Call Center,2,Mera order late deliver hua aur food bhi cold tha.
+6,25-06-2026 10:20,Website,1,The payment was deducted twice but my order was not confirmed.
+7,26-06-2026 10:20,Mobile App,1,பணம் இரண்டு முறை கழிக்கப்பட்டது ஆனால் ஆர்டர் உறுதிப்படுத்தப்படவில்லை.
+8,27-06-2026 10:20,Website,1,मेरे खाते से दो बार पैसे कट गए लेकिन ऑर्डर कन्फर्म नहीं हुआ।
+9,28-06-2026 10:20,Email,2,Customer support was rude and did not resolve my issue.
+10,28-06-2026 13:00,WhatsApp,2,"Support team romba careless ah irukanga, problem solve pannala."
+11,28-06-2026 13:30,Mobile App,1,"Delivery romba worst ah irundhuchu, customer support bhi help nahi kiya."
+12,29-06-2026 14:00,Website,3,Food super aa irundhuchu but delivery bahut late tha.
+13,30-06-2026 14:00,WhatsApp,2,Refund innum varala but support ne bola kal tak aa jayega.
+14,01-07-2026 14:00,Email,1,App crash aagiduchu while payment processing.
+15,02-07-2026 14:00,Call Center,2,Order cancel panna mudiyala and customer care not responding.
+16,03-07-2026 14:00,Mobile App,5,"Excellent service, my order arrived before expected time."
+17,04-07-2026 14:00,Website,5,"டெலிவரி மிகவும் வேகமாக வந்தது, மிகவும் மகிழ்ச்சி."
+18,04-07-2026 16:40,WhatsApp,5,"मेरा ऑर्डर समय से पहले पहुंच गया, बहुत अच्छा अनुभव।"
+19,04-07-2026 17:00,Email,4,Food quality was excellent and packaging was neat.
+20,05-07-2026 17:20,Mobile App,5,"Service super ah irundhuchu, definitely will order again."

@@ -1,0 +1,3 @@
+safe_mode:
+  enabled: true
+  fallback_only: false

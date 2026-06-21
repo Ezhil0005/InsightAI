@@ -1,0 +1,23 @@
+CREATE TABLE IF NOT EXISTS feedback_analysis (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    source_type TEXT NOT NULL,
+    original_text TEXT NOT NULL,
+    translated_text TEXT,
+    detected_language TEXT,
+    translation_confidence REAL,
+    sentiment_label TEXT,
+    sentiment_score REAL,
+    category TEXT,
+    severity TEXT,
+    severity_score REAL,
+    root_cause TEXT,
+    churn_risk REAL,
+    business_impact_score REAL,
+    recommendation_short_term TEXT,
+    recommendation_long_term TEXT,
+    provider_used TEXT,
+    model_used TEXT,
+    confidence_score REAL,
+    fallback_used BOOLEAN DEFAULT 0,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);

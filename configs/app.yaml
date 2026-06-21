@@ -1,0 +1,5 @@
+app:
+  name: InsightAI
+  debug: true
+  demo_mode: true
+  safe_mode: false

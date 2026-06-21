@@ -1,0 +1,13 @@
+providers:
+  openai:
+    enabled: true
+    api_key_env: OPENAI_API_KEY
+    priority: 1
+  gemini:
+    enabled: true
+    api_key_env: GEMINI_API_KEY
+    priority: 2
+  groq:
+    enabled: true
+    api_key_env: GROQ_API_KEY
+    priority: 3

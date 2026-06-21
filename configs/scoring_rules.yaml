@@ -1,0 +1,6 @@
+scoring:
+  success_rate_weight: 0.4
+  confidence_weight: 0.25
+  latency_weight: 0.2
+  cost_weight: 0.1
+  freshness_weight: 0.05
